@@ -1,1 +1,7 @@
-background-opacity = 1.00
+# background-opacity = 1.00
+# theme = TokyoNight Night
+
+theme = pastel.conf
+
+background-opacity = 0.90
+background-blur = true
