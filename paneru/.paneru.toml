@@ -7,13 +7,21 @@ animation_speed = 60
 [bindings]
 window_focus_west = "cmd - h"
 window_focus_east = "cmd - l"
+
 window_swap_west = "cmd + alt - h"
 window_swap_east = "cmd + alt - l"
+
 window_center = "ctrl + alt + cmd - c"
 window_resize = "ctrl + alt + cmd - r"
+
 quit = "cmd + alt - q"
+
 window_manage = "cmd - m"
 window_nextdisplaysend = "cmd - ]"
+
+window_grow = "ctrl - c"
+window_shrink = "ctrl - z"
+window_fullwidth = "ctrl - f"
 
 [swipe]
 sensitivity = 0.5
