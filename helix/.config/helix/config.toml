@@ -2,7 +2,11 @@ theme = "ttokyonight"
 
 [editor]
 line-number = "relative"
-mouse = false
+mouse = true
+middle-click-paste = true
+auto-completion = false
+path-completion = true
+auto-pairs = false
 
 [editor.cursor-shape]
 insert = "bar"
