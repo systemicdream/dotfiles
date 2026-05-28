@@ -8,6 +8,7 @@ auto-completion = false
 path-completion = true
 auto-pairs = false
 continue-comments = false
+default-yank-register = "+"
 
 [editor.cursor-shape]
 insert = "bar"
