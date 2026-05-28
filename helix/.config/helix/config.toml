@@ -6,9 +6,11 @@ mouse = true
 middle-click-paste = true
 auto-completion = false
 path-completion = true
-auto-pairs = false
 continue-comments = false
 default-yank-register = "+"
+
+[editor.auto-pairs]
+'{' = '}'
 
 [editor.cursor-shape]
 insert = "bar"
